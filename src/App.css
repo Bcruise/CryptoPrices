@@ -1,0 +1,163 @@
+.navbar {
+    background-color: white;
+    color: rgb(13, 110, 253);
+}
+
+* {
+    background-color: #E6E6E3;
+    font-family: poppins;
+}
+
+.title {
+    color: white;
+    background-color: white;
+    font-weight: 700;
+}
+
+.drow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1vw;
+    height: 35px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #292b2c;
+}
+
+.dropdown-item, .dropdown-menu {
+    color: rgb(13, 110, 253);
+}
+
+.grid {
+    display: flex; 
+    flex-direction: row;
+}
+
+.btn {
+    background-color: rgb(13, 110, 253);
+    font-weight: 700;
+}
+
+.boxSpace {
+    margin-left: 47px;
+}
+
+.pricesNavbar {
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+.spanOne {
+    background-color: white;
+    font-weight: 700;
+}
+
+.spanTwo {
+    background-color: white;
+    font-weight: 700;
+    margin-left: 5px;
+}
+
+.pricesBox {
+    height: 30px;
+    width: 110px;
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 15px;
+    margin-top: -5px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.box {
+    color: rgb(13, 110, 253);
+    height: auto;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.spanFirst {
+    bottom: 0;
+    top: auto;
+    font-weight: 700;
+    color: white;
+    font-size: 15px;
+}
+
+.spanDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    justify-content: center;
+    
+}
+
+.perChange{
+    bottom: 0;
+    top: auto;
+    padding: 1vw;
+    background-color: white;
+}
+
+.imageBox {
+    background-color: white;
+    height: 25vh;
+}
+
+.whiteNav {
+    display: flex;
+    flex-direction: row;
+}
+
+.imageTableHeader {
+    color: white;
+    font-weight: 700;
+    padding: 1vh;
+}
+
+.imageTable {
+    color: #292b2c;
+    background-color: white;
+    font-weight: 700;
+    padding: 1vh;
+}
+
+
+.imageColumn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.space {
+    height: 2px;
+}
+
+.bottom {
+    height: 25px;
+}
+
+.coinImage {
+    height: 4vh;
+    width: 2vw;
+    background-color: white;
+}
